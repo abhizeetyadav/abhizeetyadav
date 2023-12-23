@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFRBbpDCHpoUA/profile-displayphoto-shrink_400_400/0/1685198222997?e=1701907200&v=beta&t=1vQXsoweijLhCjpJY9kdvv07SNso4PSJ8uQI0RzXwHQ" alt="Header Image">
+ 
 </p>
 
 <h1 align="center">👋 Hi there, I'm Abhijeet Yadav</h1>
