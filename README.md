@@ -39,7 +39,7 @@
 <h2 align="center">📝 My Latest Blog Posts</h2>
 
 <p align="center">
-  - [Goodbye etcd! Running Kubernetes on Distributed PostgreSQL?](https://abhizeet.com/posts/goodbye-etcd/)<br>
+  - [Goodbye etcd! Running Kubernetes on Distributed PostgreSQL?]  (https://abhizeet.com/posts/goodbye-etcd/)<br>
  
 </p>
 
