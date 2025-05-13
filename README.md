@@ -10,7 +10,7 @@
 <!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS">
-  <img src="https://img.shields.io/badge/Kubernetes-Beginner-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+ <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jenkins-Intermediate-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
