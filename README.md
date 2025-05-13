@@ -39,8 +39,8 @@
 <h2 align="center">📝 My Latest Blog Posts</h2>
 
 <p align="center">
-  - [How to Deploy a Kubernetes Application on AWS](https://abhijeetyadav.com.np/kubernetes-aws-deployment)<br>
-  - [Automating AWS Infrastructure with Ansible](https://abhijeetyadav.com.np/aws-infrastructure-ansible)
+  - [Goodbye etcd! Running Kubernetes on Distributed PostgreSQL?](https://abhizeet.com/posts/goodbye-etcd/)<br>
+ 
 </p>
 
 <!-- Contact Section -->
